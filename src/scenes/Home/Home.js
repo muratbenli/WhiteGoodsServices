@@ -115,7 +115,7 @@ const Home = () => {
                         <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Beyaz
                             Eşya Servis Bölgelerimiz</h1>
                         <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">
-                            {districts.map((district, i) => <span key={i}>{district} Servisi</span>)} Ankaranın tüm bölgelerine
+                            {districts.map((district, i) => <span key={i}>{district} Servisi, </span>)} Ankaranın tüm bölgelerine
                             geniş servis ağımız ile hizmet vermekteyiz.
                         </p>
                     </div>
