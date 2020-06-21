@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/WhiteGoodsServices/static/css/main.2e9d3f44.chunk.css",
+    "main.js": "/WhiteGoodsServices/static/js/main.02ac860c.chunk.js",
+    "main.js.map": "/WhiteGoodsServices/static/js/main.02ac860c.chunk.js.map",
+    "runtime-main.js": "/WhiteGoodsServices/static/js/runtime-main.9aee1ba5.js",
+    "runtime-main.js.map": "/WhiteGoodsServices/static/js/runtime-main.9aee1ba5.js.map",
+    "static/js/2.155db9cf.chunk.js": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js",
+    "static/js/2.155db9cf.chunk.js.map": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js.map",
+    "index.html": "/WhiteGoodsServices/index.html",
+    "precache-manifest.53e59ff93bbe583f000003921319c623.js": "/WhiteGoodsServices/precache-manifest.53e59ff93bbe583f000003921319c623.js",
+    "service-worker.js": "/WhiteGoodsServices/service-worker.js",
+    "static/css/main.2e9d3f44.chunk.css.map": "/WhiteGoodsServices/static/css/main.2e9d3f44.chunk.css.map",
+    "static/js/2.155db9cf.chunk.js.LICENSE.txt": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js.LICENSE.txt",
+    "static/media/airCondition.jpg": "/WhiteGoodsServices/static/media/airCondition.ba3f70ef.jpg",
+    "static/media/boiler.jpg": "/WhiteGoodsServices/static/media/boiler.3818b97d.jpg",
+    "static/media/calorifere.jpg": "/WhiteGoodsServices/static/media/calorifere.ea115081.jpg",
+    "static/media/cover.png": "/WhiteGoodsServices/static/media/cover.2963a32d.png",
+    "static/media/dishwasher.jpg": "/WhiteGoodsServices/static/media/dishwasher.0ae58dbb.jpg",
+    "static/media/dishwasher2.png": "/WhiteGoodsServices/static/media/dishwasher2.7b307934.png",
+    "static/media/fridge.png": "/WhiteGoodsServices/static/media/fridge.62bca91c.png",
+    "static/media/oven.png": "/WhiteGoodsServices/static/media/oven.fc86a55a.png",
+    "static/media/posterwithrepairman.jpg": "/WhiteGoodsServices/static/media/posterwithrepairman.7cdc1713.jpg",
+    "static/media/sevicesPoster.jpg": "/WhiteGoodsServices/static/media/sevicesPoster.0053cd34.jpg",
+    "static/media/washer.png": "/WhiteGoodsServices/static/media/washer.45d58293.png",
+    "static/media/washer2.png": "/WhiteGoodsServices/static/media/washer2.e3126900.png",
+    "static/media/whatsapp.svg": "/WhiteGoodsServices/static/media/whatsapp.c8be02b5.svg",
+    "static/media/whitegoods1.jpg": "/WhiteGoodsServices/static/media/whitegoods1.3f08b310.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aee1ba5.js",
+    "static/js/2.155db9cf.chunk.js",
+    "static/css/main.2e9d3f44.chunk.css",
+    "static/js/main.02ac860c.chunk.js"
+  ]
+}
