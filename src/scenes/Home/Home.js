@@ -74,7 +74,7 @@ const Home = () => {
             <div className="flex bg-white" style={{height: '650px'}}>
                 <div className="flex items-center text-center  lg:text-left px-8 md:px-12 lg:w-1/2">
                     <div>
-                        <h2 className="font-bold text-gray-800 mb-8 text-6xl">Kar Teknik Servis</h2>
+                        <h2 className="font-bold text-gray-800 mb-8 mt-32 md:mt-0 text-6xl">Kar Teknik Servis</h2>
                         <span
                             className="text-red-600 font-semibold text-4xl">Profesyonel Beyaz Eşya Bakım-Onarım </span>
                         <p className="mt-2 text-xl text-gray-700 md:text-base">
@@ -96,16 +96,16 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div className="bg-red-700 w-full items-center flex h-64 text-center">
+            <div className="bg-red-700 w-full items-center flex h-32 md:h-64 mt-40 md:mt-0 text-center">
                 <div
                     className="flex mx-auto font-bold transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-125">
-                    <svg className="w-24 h-24 text-white" viewBox="0 0 16 16" fill="currentColor"
+                    <svg className="w-12 h-12 md:w-24 md:h-24 text-white" viewBox="0 0 16 16" fill="currentColor"
                          xmlns="http://www.w3.org/2000/svg">
                         <path fillRule="evenodd"
                               d="M11 1H5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM5 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H5z"/>
                         <path fillRule="evenodd" d="M8 14a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
                     </svg>
-                    <span className="text-6xl text-white mx-auto">Telefon: 0312 272 60 36</span>
+                    <span className="text-2xl md:text-6xl mt-1 md:mt-0 text-white mx-auto">Telefon: 0312 272 60 36</span>
                 </div>
             </div>
 

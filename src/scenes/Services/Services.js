@@ -72,7 +72,7 @@ const handleClick = (id) => {
                         src={servicesPoster}
                     />
                 </div>
-                <div className="absolute text-5xl justify-center w-full mx-auto font-bold text-white z-10 pt-8">
+                <div className="absolute text-5xl justify-center w-full mx-auto font-bold md:text-white text-red-500 z-10 pt-8">
                     <span className="flex justify-center w-full">Servisler</span>
                 </div>
                 <div className="flex mx-auto flex-wrap cursor-pointer -mt-24 mb-16">
