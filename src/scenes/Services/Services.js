@@ -78,7 +78,7 @@ const handleClick = (id) => {
                 <div className="flex mx-auto flex-wrap cursor-pointer -mt-24 mb-16">
                     {products.map((product, i) =>
                         <div onClick={() => handleClick(product.id)} key={i}
-                            className={product.id === shownProduct ? "sm:px-6 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium bg-gray-100 inline-flex items-center leading-none border-red-600 text-red-600 tracking-wider"
+                            className={product.id === shownProduct ? "sm:px-6 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium bg-red-200 md:bg-gray-100 inline-flex items-center leading-none border-red-600 text-red-600 tracking-wider"
                             :
                                 "sm:px-6 py-3 w-1/2 sm:w-auto justify-center text-red-600 md:text-white sm:justify-start border-b-2 title-font font-medium inline-flex items-center leading-none border-gray-200 hover:bg-gray-100 hover:border-red-600 hover:text-red-600 tracking-wider"}
                         >
