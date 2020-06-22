@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0624ac8db4431d66e62b680424bba238",
+    "revision": "0b91f5371c2969fcf71a021726e28a74",
     "url": "/WhiteGoodsServices/index.html"
   },
   {
-    "revision": "e848e7c26e693bd734a8",
+    "revision": "966501d5c15f798d47b6",
     "url": "/WhiteGoodsServices/static/css/main.2e9d3f44.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e848e7c26e693bd734a8",
-    "url": "/WhiteGoodsServices/static/js/main.2108ff9c.chunk.js"
+    "revision": "966501d5c15f798d47b6",
+    "url": "/WhiteGoodsServices/static/js/main.d191528d.chunk.js"
   },
   {
     "revision": "b79664a39ee950cba349",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WhiteGoodsServices/static/css/main.2e9d3f44.chunk.css",
-    "main.js": "/WhiteGoodsServices/static/js/main.2108ff9c.chunk.js",
-    "main.js.map": "/WhiteGoodsServices/static/js/main.2108ff9c.chunk.js.map",
+    "main.js": "/WhiteGoodsServices/static/js/main.d191528d.chunk.js",
+    "main.js.map": "/WhiteGoodsServices/static/js/main.d191528d.chunk.js.map",
     "runtime-main.js": "/WhiteGoodsServices/static/js/runtime-main.9aee1ba5.js",
     "runtime-main.js.map": "/WhiteGoodsServices/static/js/runtime-main.9aee1ba5.js.map",
     "static/js/2.155db9cf.chunk.js": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js",
     "static/js/2.155db9cf.chunk.js.map": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js.map",
     "index.html": "/WhiteGoodsServices/index.html",
-    "precache-manifest.5476b3217647ef3ecfe7d43953196d0d.js": "/WhiteGoodsServices/precache-manifest.5476b3217647ef3ecfe7d43953196d0d.js",
+    "precache-manifest.7a3f6b61881c2c18c1f6f032ec5ec9ec.js": "/WhiteGoodsServices/precache-manifest.7a3f6b61881c2c18c1f6f032ec5ec9ec.js",
     "service-worker.js": "/WhiteGoodsServices/service-worker.js",
     "static/css/main.2e9d3f44.chunk.css.map": "/WhiteGoodsServices/static/css/main.2e9d3f44.chunk.css.map",
     "static/js/2.155db9cf.chunk.js.LICENSE.txt": "/WhiteGoodsServices/static/js/2.155db9cf.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.9aee1ba5.js",
     "static/js/2.155db9cf.chunk.js",
     "static/css/main.2e9d3f44.chunk.css",
-    "static/js/main.2108ff9c.chunk.js"
+    "static/js/main.d191528d.chunk.js"
   ]
 }
