@@ -56,7 +56,7 @@ const Header = () => {
                             </g>
                         </g>
                     </svg>
-                <span className="ml-3 text-xl">Kar Teknik Servis</span>
+                <span className="md:ml-3 ml-0 text-2xl md:text-xl">Kar Teknik Servis</span>
                 </span>
                 <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
                 <Link to="/">
@@ -69,9 +69,9 @@ const Header = () => {
                     <span className="mr-5 hover:text-gray-400">İletişim</span>
                 </Link>
                 </nav>
-                <div className="flex">
-                    <img src={wplogo} className="w-8 h-8 mr-2 -mt-1"/>
-                    <div className="text-lg" >Whatsapp Servis Hattı : 0312 272 60 36</div>
+                <div className="flex mt-2 md:mt-0">
+                    <img src={wplogo} className="w-4 h-4 md:w-8 md:h-8 mr-2 md:-mt-1 "/>
+                    <div className="text-xs md:text-lg" >Whatsapp Servis Hattı : 0312 272 60 36</div>
                 </div>
             </div>
         </header>
