@@ -72,7 +72,7 @@ const handleClick = (id) => {
                         src={servicesPoster}
                     />
                 </div>
-                <div className="absolute text-5xl justify-center w-full mx-auto font-bold md:text-white text-red-500 z-10 pt-8">
+                <div className="absolute text-5xl justify-center w-full mx-auto font-bold md:text-white text-red-600 z-10 pt-8">
                     <span className="flex justify-center w-full">Servisler</span>
                 </div>
                 <div className="flex mx-auto flex-wrap cursor-pointer -mt-24 mb-16">
@@ -80,7 +80,7 @@ const handleClick = (id) => {
                         <div onClick={() => handleClick(product.id)} key={i}
                             className={product.id === shownProduct ? "sm:px-6 py-3 w-1/2 sm:w-auto justify-center sm:justify-start border-b-2 title-font font-medium bg-gray-100 inline-flex items-center leading-none border-red-600 text-red-600 tracking-wider"
                             :
-                                "sm:px-6 py-3 w-1/2 sm:w-auto justify-center text-red-500 md:text-white sm:justify-start border-b-2 title-font font-medium inline-flex items-center leading-none border-gray-200 hover:bg-gray-100 hover:border-red-600 hover:text-red-600 tracking-wider"}
+                                "sm:px-6 py-3 w-1/2 sm:w-auto justify-center text-red-600 md:text-white sm:justify-start border-b-2 title-font font-medium inline-flex items-center leading-none border-gray-200 hover:bg-gray-100 hover:border-red-600 hover:text-red-600 tracking-wider"}
                         >
                             {product.name}
                         </div>

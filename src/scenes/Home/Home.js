@@ -76,8 +76,8 @@ const Home = () => {
                     <div>
                         <h2 className="font-bold text-gray-800 mb-8 mt-32 md:mt-0 text-6xl">Kar Teknik Servis</h2>
                         <span
-                            className="text-red-600 font-semibold text-4xl">Profesyonel Beyaz Eşya Bakım-Onarım </span>
-                        <p className="mt-2 text-xl text-gray-700 md:text-base">
+                            className="text-red-600 font-semibold text-xl md:text-4xl">Profesyonel Beyaz Eşya Bakım-Onarım </span>
+                        <p className="mt-2 text-sm md:text-xl text-gray-700 md:text-base">
                             Beyaz eşya servisi, Kar Teknik Güvencesi İle Beyaz Eşyalarınıza, Ankastrelerinize,
                             Klimalarınıza Ve Kalorifer Peteklerinize Servis Hizmeti Vermekteyiz. Cihazlarınızda Oluşan
                             Herhangi Bir Nedenden Dolayı Çağrı Merkezimizi Arayarak Servisimize Ulaşabilirsiniz. Servis
